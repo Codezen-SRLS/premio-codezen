@@ -3,9 +3,9 @@
 Official repository of **Premio Codezen**, promoted by **Codezen, an Altairith Capital Holding Company**.
 
 Here you will find:
-- the **Call for Applications** (Markdown version, ready for website or PDF)
+- the **Call for Applications**
 - **FAQ** and supporting materials
-- a **Materials** section where you can upload (for example) **last year’s test** and teaching resources
+- a **Materials** section with **last year’s test** and teaching resources
 
 ## Repository structure
 
