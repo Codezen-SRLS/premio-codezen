@@ -5,7 +5,7 @@ Past tests and supporting materials for students and teachers.
 | Edition | Format | English | Italiano |
 |---|---|---|---|
 | 2026 (held 3 June 2026) | 10 multiple-choice questions (A–E), 50 min | [test](2026/test.md) | [test](2026/test-it.md) |
-| 2025 | 10 open-answer questions, 50 min | [test](2025/test.md) | [test](2025/test-it.md) |
+| 2025 | 10 multiple-choice questions, 50 min | [test](2025/test.md) | [test](2025/test-it.md) |
 
 ## Conventions
 
