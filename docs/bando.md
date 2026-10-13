@@ -2,6 +2,8 @@
 
 **Premio Codezen**, promoted by **Codezen, an Altairith Capital Holding Company**
 
+> **2026 edition: concluded.** The test was held on **3 June 2026** and the prize was awarded to **Federico Roia** at the ceremony on **26 June 2026**.
+
 ## Purpose of the prize
 
 Premio Codezen was created on the initiative of **Christian Vari**, security researcher and founder of **Codezen SRL**, an Altairith Capital Holding Company.
@@ -40,7 +42,7 @@ The following students are eligible to participate:
 
 ## How to apply
 
-Interested students must apply by **[end of April 2026 – exact date to be defined]**, by filling in the **online form**.
+Interested students had to apply by **9 April 2026**, by filling in the **online form**.
 
 ---
 
@@ -50,14 +52,14 @@ Interested students must apply by **[end of April 2026 – exact date to be defi
 
 Students will attend an introductory session on school premises, during which Christian Vari will present the prize and its objectives.
 
-- **Date**: **[April 2026 – exact date to be defined]**
+- **Date**: **9 April 2026**
 - **Location**: school premises
 
 ### Assessment test
 
 The test will be held on school premises and will be taken on a computer, under the supervision of teachers and representatives of Codezen to ensure fairness.
 
-- **Date and time**: **[May 2026 – exact date to be defined]**
+- **Date**: **3 June 2026**
 - **Format**: computer-based, in person
 
 The test will consist of:
@@ -69,7 +71,7 @@ Sample materials and past tests: see [`materials/`](../materials/)
 
 ### Award ceremony
 
-The award ceremony will be held in **[June 2026 – exact date to be defined]** at a venue to be determined, with the participation of Christian Vari and representatives from the schools.
+The award ceremony was held on **26 June 2026** at the **Sala Alta Formazione, Biblioteca di Colleferro**, with the participation of Christian Vari and representatives from the schools.
 
 ---
 
@@ -77,7 +79,7 @@ The award ceremony will be held in **[June 2026 – exact date to be defined]** 
 
 The test will be evaluated digitally, ensuring impartiality and rigor. The prize will be awarded to the student who obtains the highest overall score in the test.
 
-In the event of a tie, Codezen reserves the right to organize an additional tiebreaker test for the top candidates to determine the final recipient of the prize.
+In the event of a tie, the prize will be awarded to the candidate with the lower **ISEE** (Italian household income indicator).
 
 ---
 

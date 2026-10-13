@@ -17,3 +17,6 @@ Desktop.ini
 *.tmp
 *.temp
 *.log
+
+# Answer keys must never be published
+answer-key*

@@ -5,7 +5,14 @@ Official repository of **Premio Codezen**, promoted by **Codezen, an Altairith C
 Here you will find:
 - the **Call for Applications**
 - **FAQ** and supporting materials
-- a **Materials** section with **last year’s test** and teaching resources
+- a **Materials** section with **past tests** (2025, 2026) in English and Italian
+
+## Hall of fame
+
+| Edition | Winner |
+|---|---|
+| 2026 | Federico Roia |
+| 2025 | Giorgia Cardinali |
 
 ## Repository structure
 
@@ -16,7 +23,9 @@ Here you will find:
 
 - 📌 **Call for Applications**: [`docs/bando.md`](docs/bando.md)
 - ❓ **FAQ**: [`docs/faq.md`](docs/faq.md)
-- 📚 **Materials (previous years)**: [`materials/`](materials/)
+- 📚 **Past tests**: [`materials/`](materials/)
+  - 2026: [English](materials/2026/test.md) · [Italiano](materials/2026/test-it.md)
+  - 2025: [English](materials/2025/test.md) · [Italiano](materials/2025/test-it.md)
 
 ## Contacts
 
